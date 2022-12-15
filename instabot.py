@@ -6,7 +6,7 @@ from instabot import Bot
 
 my_bot = Bot()
 
-my_bot.login(username="packston123", password="packston")
+my_bot.login(username="packston123", password="lmao you thought i was gonna give away the password")
 
 sleep(20)
 
